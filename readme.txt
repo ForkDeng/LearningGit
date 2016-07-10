@@ -1,2 +1,2 @@
-6.  Mime Tool 1.9
-
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
